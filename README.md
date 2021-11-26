@@ -1,4 +1,6 @@
-# three_js_test
+# three.js Library
+
+![homepage](images/test_threeJS.png)
 
 Creation of a 3D world and 3D objects inside the browser, using [Three.js](https://threejs.org/)
 You can rotate the model and the environment.
